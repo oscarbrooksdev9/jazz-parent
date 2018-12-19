@@ -4,3 +4,6 @@
 [submodule "/api-template-nodejs"]
 	path = /api-template-nodejs
 	url = https://github.com/oscarbrooksdev9/api-template-nodejs.git
+[submodule "jazz-installer"]
+	path = jazz-installer
+	url = https://github.com/oscarbrooksdev9/jazz-installer.git
