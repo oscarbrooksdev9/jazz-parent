@@ -1,3 +1,6 @@
 [submodule "https://github.com/oscarbrooksdev9/api-template-java.git"]
 	path = https://github.com/oscarbrooksdev9/api-template-java.git
 	url = https://github.com/oscarbrooksdev9/api-template-java.git
+[submodule "/api-template-nodejs"]
+	path = /api-template-nodejs
+	url = https://github.com/oscarbrooksdev9/api-template-nodejs.git
